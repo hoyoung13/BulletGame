@@ -59,25 +59,25 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11156}
+      Script: {instanceID: 11160}
     - Class: 114
-      Script: {instanceID: 11218}
+      Script: {instanceID: 11222}
     - Class: 114
-      Script: {instanceID: 11296}
+      Script: {instanceID: 11300}
     - Class: 114
-      Script: {instanceID: 11318}
+      Script: {instanceID: 11322}
     - Class: 114
-      Script: {instanceID: 11740}
+      Script: {instanceID: 11744}
     - Class: 114
-      Script: {instanceID: 12600}
+      Script: {instanceID: 12284}
     - Class: 114
-      Script: {instanceID: 12886}
+      Script: {instanceID: 12606}
     - Class: 114
-      Script: {instanceID: 12950}
+      Script: {instanceID: 12850}
     - Class: 114
-      Script: {instanceID: 14782}
+      Script: {instanceID: 12894}
     - Class: 114
-      Script: {instanceID: 16302}
+      Script: {instanceID: 12958}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -93,6 +93,8 @@ ScriptsOnlyBuild:
     - Class: 157
       Script: {instanceID: 0}
     - Class: 196
+      Script: {instanceID: 0}
+    - Class: 205
       Script: {instanceID: 0}
     - Class: 222
       Script: {instanceID: 0}
@@ -361,6 +363,12 @@ ScriptsOnlyBuild:
     className: VerticalLayoutGroup
   - hash:
       serializedVersion: 2
+      Hash: 7d3dcb99f11eac982a1db53a4dab7ad6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BulletSpawner
+  - hash:
+      serializedVersion: 2
       Hash: 783f593b9380cf72d0f7ebfd4a0d4bcd
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -443,6 +451,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_StyleSheet
+  - hash:
+      serializedVersion: 2
+      Hash: afc5b93a7b192de2dcb3832fe35a5c7e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Bullet
   - hash:
       serializedVersion: 2
       Hash: 21d73eda81c18eacd2c91ad5dfaf2e32
@@ -545,19 +559,7 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: afc5b93a7b192de2dcb3832fe35a5c7e
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: Bullet
-  - hash:
-      serializedVersion: 2
-      Hash: 7d3dcb99f11eac982a1db53a4dab7ad6
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: BulletSpawner
   platform: 5
   scenePathNames:
   - Assets/Cartoon Cat/Cartoon Cat.unity
-  playerPath: C:/Users/user/Documents/GitHub/BulletGame/q/New Unity Project (2).exe
+  playerPath: "C:/Users/user/Desktop/30219\uCC9C\uD638\uC601/New Unity Project (2).exe"
